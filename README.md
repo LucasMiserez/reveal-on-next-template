@@ -1,4 +1,4 @@
-# Reveal.js with Next.js Template
+# Reveal.js on Next.js Template
 
 This is a template for starting a Reveal.js project with Next.js
 
